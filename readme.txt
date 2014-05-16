@@ -12,4 +12,8 @@ My stupid boss still prefers SVN.
 
 Creating a new branch dev.
 
+<<<<<<< HEAD
 Creating a new branch is quick & simaple.
+=======
+Creating a new branch feature.
+>>>>>>> feature
